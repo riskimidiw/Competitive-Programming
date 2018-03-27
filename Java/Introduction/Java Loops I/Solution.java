@@ -1,3 +1,5 @@
+// Problem : https://www.hackerrank.com/challenges/java-loops-i
+
 import java.io.*;
 import java.util.*;
 

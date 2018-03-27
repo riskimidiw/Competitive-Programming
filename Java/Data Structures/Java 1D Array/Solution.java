@@ -1,3 +1,5 @@
+// Problem : https://www.hackerrank.com/challenges/java-1d-array-introduction
+
 import java.util.*;
 
 public class Solution {

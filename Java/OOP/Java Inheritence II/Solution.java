@@ -1,3 +1,5 @@
+// Problem : https://www.hackerrank.com/challenges/java-inheritance-2
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

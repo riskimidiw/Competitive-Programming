@@ -1,29 +1,30 @@
-    import java.io.*;
-    import java.util.*;
-    import java.text.*;
-    import java.math.*;
-    import java.util.regex.*;
+// Problem : https://www.hackerrank.com/challenges/java-if-else
 
-    public class Solution {
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
-        public static void main(String[] args) {
+public class Solution {
 
-            Scanner sc=new Scanner(System.in);
-            int n=sc.nextInt();            
-            String ans="";
-            if(n%2==1){
-              ans = "Weird";
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+
+        int n=sc.nextInt();            
+        String ans="";
+        
+        if(n%2==1){
+            ans = "Weird";
+        } else{
+            if(n>=2 && n<=5 && n%2 == 0) {
+                System.out.println("Not Weird");
+            }else if(n>=6 && n<=20 && n%2 == 0) {
+                System.out.println("Weird");
+            }else if(n>=20 && n%2 == 0) {
+                System.out.println("Not Weird");
             }
-            else{
-                if(n>=2 && n<=5 && n%2 == 0) {
-                    System.out.println("Not Weird");
-                }else if(n>=6 && n<=20 && n%2 == 0) {
-                    System.out.println("Weird");
-                }else if(n>=20 && n%2 == 0) {
-                    System.out.println("Not Weird");
-                }
-            }
-            System.out.println(ans);
-            
         }
+        System.out.println(ans);       
     }
+}

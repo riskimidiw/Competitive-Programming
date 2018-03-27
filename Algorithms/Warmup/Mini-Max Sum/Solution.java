@@ -1,3 +1,5 @@
+// Problem : https://www.hackerrank.com/challenges/mini-max-sum/problem
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
