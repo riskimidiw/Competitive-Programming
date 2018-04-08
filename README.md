@@ -21,6 +21,8 @@ Problem | Solution
 [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|[Solution.java](30-Days-of-Code/Day-8:Dictionaries-and-Maps/Solution.java)
 [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)|[Solution.java](30-Days-of-Code/Day-9:Recursion/Solution.java)
 [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|[Solution.java](30-Days-of-Code/Day-10:Binary-Numbers/Solution.java)
+[Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[Solution.java](30-Days-of-Code/Day-11:2D-Arrays/Solution.java)
+[Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|[Solution.java](30-Days-of-Code/Day-12:Inheritance/Solution.java)
 
 ## Algorithms
 Subdomain | Problem | Solution
