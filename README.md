@@ -2,10 +2,10 @@
 My [HackerRank](https://www.hackerrank.com) Solutions
 
 # Contents
-- [30 Days of Code](https://github.com/riskimidiw/HackerRank#30-days-of-code)
-- [Algorithms](https://github.com/riskimidiw/HackerRank#algorithms)
-- [Artificial Intelligence](https://github.com/riskimidiw/HackerRank#artificial-intelligence)
-- [Java](https://github.com/riskimidiw/HackerRank#java)
+- [30 Days of Code](#30-days-of-code)
+- [Algorithms](#algorithms)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Java](#java)
 
 ## 30 Days of Code
 Problem | Solution
