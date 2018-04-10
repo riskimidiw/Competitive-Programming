@@ -24,6 +24,7 @@ Problem | Solution
 [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[Solution.java](30-Days-of-Code/Day-11:2D-Arrays/Solution.java)
 [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|[Solution.java](30-Days-of-Code/Day-12:Inheritance/Solution.java)
 [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|[Solution.java](30-Days-of-Code/Day-13:Abstract-Classes/Solution.java)
+[Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)|[Solution.java](30-Days-of-Code/Day-14:Scope/Solution.java)
 
 ## Algorithms
 Subdomain | Problem | Solution
