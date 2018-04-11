@@ -64,6 +64,7 @@ Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/jav
 Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else)|[Solution.java](Java/Introduction/Java-If-Else/Solution.java)
 Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)|[Solution.java](Java/Introduction/Java-Stdin-and-Stdout-II/Solution.java)
 Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)|[Solution.java](Java/Introduction/Java-Output-Formatting/Solution.java)
+Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution.java](Java/Introduction/Java-Static-Initializer-Block/Solution.java)
 Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)|[Solution.java](Java/Introduction/Java-Loops-I/Solution.java)
 Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops)|[Solution.java](Java/Introduction/Java-Loops-II/Solution.java)
 Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)|[Solution.java](Java/Introduction/Java-Datatypes/Solution.java)
