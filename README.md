@@ -77,6 +77,7 @@ Strings|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)|[So
 Strings|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)|[Solution.java](Java/Strings/Java-String-Tokens/Solution.java)
 BigNumber|[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)|[Solution.java](Java/BigNumber/Java-BigInteger/Solution.java)
 Data Structures|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)|[Solution.java](Java/Data-Structures/Java-1D-Array/Solution.java)
+Data Structures|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)|[Solution.java](Java/Data-Structures/Java-2D-Array/Solution.java)
 Data Structures|[Java List](https://www.hackerrank.com/challenges/java-list)|[Solution.java](Java/Data-Structures/Java-List/Solution.java)
 Data Structures|[Java Map](https://www.hackerrank.com/challenges/phone-book)|[Solution.java](Java/Data-Structures/Java-Map/Solution.java)
 Data Structures|[Java Generics](https://www.hackerrank.com/challenges/java-generics)|[Solution.java](Java/Data-Structures/Java-Generics/Solution.java)
