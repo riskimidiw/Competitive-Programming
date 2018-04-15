@@ -5,7 +5,7 @@ My [HackerRank](https://www.hackerrank.com) Solutions
 - [30 Days of Code](#30-days-of-code)
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
-- [C++](#c++)
+- [C++](#c)
 - [Java](#java)
 
 ## 30 Days of Code
