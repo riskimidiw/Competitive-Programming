@@ -5,6 +5,7 @@ My [HackerRank](https://www.hackerrank.com) Solutions
 - [30 Days of Code](#30-days-of-code)
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
+- [C++](#c++)
 - [Java](#java)
 
 ## 30 Days of Code
@@ -55,6 +56,12 @@ Subdomain | Problem | Solution
 --------- | ------- | --------
 Bot Building|[Bot saves princess](https://www.hackerrank.com/challenges/saveprincess/problem)|[Solution.cpp](Artificial-Inteligence/Bot-saves-princess/Solution.cpp)
 Bot Building|[Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2)|[Solution.cpp](Artificial-Inteligence/Bot-saves-princess-2/Solution.cpp)
+
+## C++
+Subdomain | Problem | Solution
+--------- | ------- | --------
+Introduction|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)|[Solution.cpp](C++/Introduction/Say"Hello,World!"With-C++.cpp)
+Introduction|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|[Solution.cpp](C++/Introduction/Input-and-Output.cpp)
 
 ## Java
 Subdomain | Problem | Solution
