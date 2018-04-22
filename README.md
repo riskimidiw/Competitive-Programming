@@ -63,6 +63,9 @@ Subdomain | Problem | Solution
 Introduction|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)|[Solution.cpp](C++/Introduction/Say"Hello,World!"With-C++.cpp)
 Introduction|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|[Solution.cpp](C++/Introduction/Input-and-Output.cpp)
 Introduction|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[Solution.cpp](C++/Introduction/Basic-Data-Types.cpp)
+Introduction|[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)|[Solution.cpp](C++/Introduction/For-Loop.cpp)
+Introduction|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)|[Solution.cpp](C++/Introduction/Conditional-Statements.cpp)
+Introduction|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|[Solution.cpp](C++/Introduction/Functions.cpp)
 
 ## Java
 Subdomain | Problem | Solution
