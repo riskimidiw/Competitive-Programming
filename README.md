@@ -66,6 +66,8 @@ Introduction|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial
 Introduction|[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)|[Solution.cpp](C++/Introduction/For-Loop.cpp)
 Introduction|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)|[Solution.cpp](C++/Introduction/Conditional-Statements.cpp)
 Introduction|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|[Solution.cpp](C++/Introduction/Functions.cpp)
+Introduction|[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)|[Solution.cpp](C++/Introduction/Pointer.cpp)
+Introduction|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)|[Solution.cpp](C++/Introduction/Arrays-Introduction.cpp)
 
 ## Java
 Subdomain | Problem | Solution
