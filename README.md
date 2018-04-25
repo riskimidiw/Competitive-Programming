@@ -89,6 +89,7 @@ Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-
 Strings|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)|[Solution.java](Java/Strings/Java-Anagrams/Solution.java)
 Strings|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)|[Solution.java](Java/Strings/Java-String-Tokens/Solution.java)
 BigNumber|[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)|[Solution.java](Java/BigNumber/Java-BigInteger/Solution.java)
+BigNumber|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)|[Solution.java](Java/BigNumber/Java-Primality-Test/Solution.java)
 Data Structures|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)|[Solution.java](Java/Data-Structures/Java-1D-Array/Solution.java)
 Data Structures|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)|[Solution.java](Java/Data-Structures/Java-2D-Array/Solution.java)
 Data Structures|[Java List](https://www.hackerrank.com/challenges/java-list)|[Solution.java](Java/Data-Structures/Java-List/Solution.java)
