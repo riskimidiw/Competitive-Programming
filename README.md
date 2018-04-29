@@ -26,6 +26,9 @@ Problem | Solution
 [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|[Solution.java](30-Days-of-Code/Day-12:Inheritance/Solution.java)
 [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|[Solution.java](30-Days-of-Code/Day-13:Abstract-Classes/Solution.java)
 [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)|[Solution.java](30-Days-of-Code/Day-14:Scope/Solution.java)
+[Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)|[Solution.java](30-Days-of-Code/Day-15:Linked-List/Solution.java)
+[Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|[Solution.java](30-Days-of-Code/Day-16:Exceptions-String-to-Integer/Solution.java)
+[Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|[Solution.java](30-Days-of-Code/Day-17:More-Exceptions/Solution.java)
 
 ## Algorithms
 Subdomain | Problem | Solution
