@@ -71,6 +71,7 @@ Introduction|[Conditional Statements](https://www.hackerrank.com/challenges/c-tu
 Introduction|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|[Solution.cpp](C++/Introduction/Functions.cpp)
 Introduction|[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)|[Solution.cpp](C++/Introduction/Pointer.cpp)
 Introduction|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)|[Solution.cpp](C++/Introduction/Arrays-Introduction.cpp)
+Strings|[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)|[Solution.cpp](C++/Strings/Strings.cpp)
 
 ## Java
 Subdomain | Problem | Solution
