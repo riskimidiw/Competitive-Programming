@@ -45,6 +45,7 @@ Warmup|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/p
 Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution.java](Algorithms/Implementation/Grading-Students/Solution.java)
 Implementation|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Solution.java](Algorithms/Implementation/Apple-and-Orange/Solution.java)
 Implementation|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[Solution.java](Algorithms/Implementation/Kangaroo/Solution.java)
+Implementation|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[Solution.java](Algorithms/Implementation/Migratory-Birds/Solution.java)
 Implementation|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[Solution.java](Algorithms/Implementation/Breaking-the-Records/Solution.java)
 Implementation|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[Solution.java](Algorithms/Implementation/Divisible-Sum-Pairs/Solution.java)
 Implementation|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)|[Solution.java](Algorithms/Implementation/Bon-Appétit/Solution.java)
