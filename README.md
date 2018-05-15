@@ -64,6 +64,7 @@ Bot Building|[Bot saves princess - 2](https://www.hackerrank.com/challenges/save
 ## C++
 Subdomain | Problem | Solution
 --------- | ------- | --------
+Classes|[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)|[Solution.cpp](C++/Classes/Structs.cpp)
 Introduction|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)|[Solution.cpp](C++/Introduction/Say"Hello,World!"With-C++.cpp)
 Introduction|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|[Solution.cpp](C++/Introduction/Input-and-Output.cpp)
 Introduction|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[Solution.cpp](C++/Introduction/Basic-Data-Types.cpp)
