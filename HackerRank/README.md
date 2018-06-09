@@ -7,6 +7,7 @@ My [HackerRank](https://www.hackerrank.com) Solutions
 - [Artificial Intelligence](#artificial-intelligence)
 - [C++](#c)
 - [Java](#java)
+- [ProjectEuler+](#project-euler)
 
 ## 30 Days of Code
 Problem | Solution
@@ -110,3 +111,9 @@ Object Oriented Programming|[Java Method Overriding 2 (Super Keyword)](https://w
 Object Oriented Programming|[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)|[Solution.java](Java/OOP/Java-Instanceof-keyword/Solution.java)
 Object Oriented Programming|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)|[Solution.java](Java/OOP/Java-Iterator/Solution.java)
 Exception Handling|[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)|[Solution.java](Java/Exception-Handling/Java-Exception-Handling/Solution.java)
+
+## Project Euler+
+
+Challenge | Problem | Solution
+--------- | ------- | --------
+Project Euler #1 | [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem) | [Solution.java](ProjectEuler+/euler001/Solution.java)
