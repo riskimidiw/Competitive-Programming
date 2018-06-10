@@ -2,12 +2,23 @@
 My [HackerRank](https://www.hackerrank.com) Solutions
 
 # Contents
+- [10 Days of Code](#10-days-of-javascript)
 - [30 Days of Code](#30-days-of-code)
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
 - [C++](#c)
 - [Java](#java)
 - [ProjectEuler+](#project-euler)
+
+## 10 Days of Javascript
+Problem | Solution
+------- | --------
+[Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types) | [Solution.js](10-Days-of-Javascript/Day-0:Data-Types/Solution.js)
+[Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world) | [Solution.js](10-Days-of-Javascript/Day-0:Hello,World!/Solution.js)
+[Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators) | [Solution.js](10-Days-of-Javascript/Day-1:Arithmetic-Operators/Solution.js)
+[Day 1: Functions](https://www.hackerrank.com/challenges/js10-function) | [Solution.js](10-Days-of-Javascript/Day-1:Functions/Solution.js)
+[Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const) | [Solution.js](10-Days-of-Javascript/Day-1:Let-and-Const/Solution.js)
+
 
 ## 30 Days of Code
 Problem | Solution
