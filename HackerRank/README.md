@@ -18,6 +18,9 @@ Problem | Solution
 [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators) | [Solution.js](10-Days-of-Javascript/Day-1:Arithmetic-Operators/Solution.js)
 [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function) | [Solution.js](10-Days-of-Javascript/Day-1:Functions/Solution.js)
 [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const) | [Solution.js](10-Days-of-Javascript/Day-1:Let-and-Const/Solution.js)
+[Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [Solution.js](10-Days-of-Javascript/Day-2:Conditional-Statements:If-Else/Solution.js)
+[Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [Solution.js](10-Days-of-Javascript/Day-2:Conditional-Statements:Switch/Solution.js)
+[Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution.js](10-Days-of-Javascript/Day-2:Loops/Solution.js)
 
 
 ## 30 Days of Code
