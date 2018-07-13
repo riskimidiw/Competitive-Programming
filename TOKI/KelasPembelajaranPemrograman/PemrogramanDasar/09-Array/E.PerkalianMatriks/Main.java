@@ -38,7 +38,7 @@ public class Main {
         for(int i=0; i<n; i++) {
             for(int j=0; j<p; j++) {
                 System.out.print(result[i][j]);
-                if(i != n && j != p-1) {
+                if(j != p-1) {
                     System.out.print(" ");
                 }
             }

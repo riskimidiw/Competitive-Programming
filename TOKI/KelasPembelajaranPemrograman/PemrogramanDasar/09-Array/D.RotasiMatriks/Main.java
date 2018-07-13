@@ -18,7 +18,7 @@ public class Main {
         for(int i=0; i<m; i++) {
             for(int j=0; j<n; j++) {
                 System.out.print(arr[i][j]);
-                if(i != m && j!= n-1) {
+                if(j!= n-1) {
                     System.out.print(" ");
                 }
             }
