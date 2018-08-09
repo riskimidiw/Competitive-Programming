@@ -2,7 +2,7 @@
 My [HackerRank](https://www.hackerrank.com) Solutions
 
 # Contents
-- [10 Days of Code](#10-days-of-javascript)
+- [10 Days of Javascript](#10-days-of-javascript)
 - [30 Days of Code](#30-days-of-code)
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
