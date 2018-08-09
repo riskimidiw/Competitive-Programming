@@ -4,6 +4,8 @@ Kompetisi Code Jam dan Hackaton yang di adakan ECC UGM dan Kompas Gramedia tahun
 
 ## Code Jam
 Menyelesaikan permasalahan coding dalam waktu tertentu.
+- https://www.hackerrank.com/hackgen-ugm-session-1
+- https://www.hackerrank.com/hackgen-ugm-session-2
 
 Problem | Solution
 ------- | --------
