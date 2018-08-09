@@ -102,6 +102,8 @@ Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challeng
 Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)|[Solution.java](Java/Introduction/Java-Loops-I/Solution.java)
 Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops)|[Solution.java](Java/Introduction/Java-Loops-II/Solution.java)
 Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)|[Solution.java](Java/Introduction/Java-Datatypes/Solution.java)
+Introduction|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)|[Solution.java](Java/Introduction/Java-Date-and-Time/Solution.java)
+Introduction|[Java End of file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|[Solution.java](Java/Introduction/Java-End-of-file/Solution.java)
 Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)|[Solution.java](Java/Introduction/Java-Int-to-String/Solution.java)
 Introduction|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)|[Solution.java](Java/Introduction/Java-Currency-Formatter/Solution.java)
 Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|[Solution.java](Java/Strings/Java-Strings-Introduction/Solution.java)
@@ -124,7 +126,9 @@ Object Oriented Programming|[Java Method Overriding](https://www.hackerrank.com/
 Object Oriented Programming|[Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem)|[Solution.java](Java/OOP/Java-Method-Overriding-2/Solution.java)
 Object Oriented Programming|[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)|[Solution.java](Java/OOP/Java-Instanceof-keyword/Solution.java)
 Object Oriented Programming|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)|[Solution.java](Java/OOP/Java-Iterator/Solution.java)
-Exception Handling|[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)|[Solution.java](Java/Exception-Handling/Java-Exception-Handling/Solution.java)
+Exception Handling|[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)|[Solution.java](Java/Exception-Handling/Java-Exception-Handling-Try-Catch/Solution.java)
+Exception Handling|[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)|[Solution.java](Java/Exception-Handling/Java-Exception-Handling/Solution.java)
+Advanced|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)|[Solution.java](Java/Advanced/Java-Varargs/Solution.java)
 
 ## Project Euler+
 
