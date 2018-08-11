@@ -11,4 +11,5 @@ Problem | Solution
 ------- | --------
 [Pembagian Warisan](PembagianWarisan/Problem.md) | [Solution.java](PembagianWarisan/Solution.java)
 [Pemeriksaan Jawaban](PemeriksaanJawaban/Problem.md) | [Solution.java](PemeriksaanJawaban/Solution.java)
+[Relokasi Kantor](RelokasiKantor/relokasi-kantor-English.pdf) | [Solution.java](RelokasiKantor/Solution.java)
 [Sistem Rudal](SistemRudal/Problem.md) | [Solution.java](SistemRudal/Solution.java)
