@@ -139,3 +139,4 @@ Project Euler #3 | [Largest prime factor](https://www.hackerrank.com/contests/pr
 Project Euler #8 | [Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem) | [Solution.java](ProjectEuler+/euler008/Solution.java)
 Project Euler #13 | [Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem) | [Solution.java](ProjectEuler+/euler013/Solution.java)
 Project Euler #20 | [Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020/problem) | [Solution.java](ProjectEuler+/euler020/Solution.java)
+Project Euler #20 | [Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022/problem) | [Solution.java](ProjectEuler+/euler022/Solution.java)
