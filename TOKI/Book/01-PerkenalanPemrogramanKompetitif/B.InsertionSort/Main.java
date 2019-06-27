@@ -20,17 +20,12 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int[] arr = new int[n];
+        int[] arr = {5,4,3,21,2};
 
-        for(int i=0; i<n; i++) {
-            arr[i] = sc.nextInt();
-        }
-
-        insertionSort(arr, n);
+        insertionSort(arr, arr.length);
         for(int tmp : arr) {
-            System.out.println(tmp);
+            System.out.print(tmp + " ");
         }
+        System.out.println();
     }
 }
